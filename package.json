@@ -1,0 +1,15 @@
+{
+  "name": "rem",
+  "version": "1.0.0",
+  "description": "rem自适应脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:ly023/rem.git"
+  },
+  "author": "randonely@gmail.com",
+  "license": "ISC"
+}
